@@ -1,0 +1,15 @@
+{
+    "list":[
+    {
+        "id": 7,
+        "title": "Moral Decision Mechanism of Artificial Intelligence",
+        "href": "https://www.youtube.com/watch?v=goePYJ74Ydg&t=190s",
+        "excerpt": "Exploring how AI handles moral dilemmas, perfect for demonstrating the core philosophy of our project.",
+        "img": "/blogs/images/research/01.jpg",
+        "date": "January 2021",
+        "category": "Research",
+        "readTime": "12 Min",
+        "icon": "Cpu"
+    }
+]
+}

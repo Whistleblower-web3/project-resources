@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "id": 8,
+            "title": "Bitcoin: Financial Freedom and Human Rights",
+            "href": "https://www.bedfordindependent.co.uk/opinion-how-a-bitcoin-conference-in-bedford-changed-the-way-i-see-financial-freedom-and-human-rights/",
+            "excerpt": "How a Bitcoin conference changed perspectives on financial freedom and human rights.",
+            "img": "/blogs/images/news/bitcoin-conference.jpg",
+            "date": "April 13 2025",
+            "category": "News",
+            "readTime": "5 Min",
+            "icon": "Globe"
+        },
+        {
+            "id": 9,
+            "title": "Vitalik Talks About Decentralization",
+            "href": "https://www.youtube.com/watch?v=jznCAlGknIo",
+            "excerpt": "Vitalik challenges builders to focus on freedom, resilience, and true user empowerment in crypto design.",
+            "img": "/blogs/images/news/vitalik.jpg",
+            "date": "July 3 2025",
+            "category": "News",
+            "readTime": "15 Min",
+            "icon": "MessageSquare"
+        }
+    ]
+}
+
+

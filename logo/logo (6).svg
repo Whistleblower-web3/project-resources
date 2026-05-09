@@ -3,18 +3,14 @@
   <defs>
     <style>
       .cls-1, .cls-2 {
-        stroke-width: 0px;
-      }
-
-      .cls-1, .cls-3 {
         fill: #b8f601;
       }
 
-      .cls-2 {
-        fill: #fff;
+      .cls-1, .cls-3 {
+        stroke-width: 0px;
       }
 
-      .cls-3 {
+      .cls-2 {
         font-family: SpecialGothicExpandedOne-Regular, 'Special Gothic Expanded One';
         font-size: 18px;
       }
@@ -27,6 +23,10 @@
         letter-spacing: 0em;
       }
 
+      .cls-3 {
+        fill: #a5a5a5;
+      }
+
       .cls-6 {
         letter-spacing: -.02em;
       }
@@ -37,7 +37,7 @@
     </style>
   </defs>
   <g id="_图层_2" data-name="图层 2">
-    <rect class="cls-2" y="0" width="240" height="240"/>
+    <rect class="cls-3" y="0" width="240" height="240"/>
   </g>
   <g id="_图层_1" data-name="图层 1">
     <g>
@@ -45,6 +45,6 @@
       <path class="cls-1" d="m142.27,84.52c0,5.92-2.34,11.56-6.51,15.76-4.2,4.17-9.84,6.51-15.76,6.51s-11.56-2.34-15.76-6.51c-4.17-4.2-6.51-9.84-6.51-15.76s2.34-11.58,6.51-15.76c4.2-4.17,9.84-6.54,15.76-6.54s11.56,2.36,15.76,6.54c4.17,4.17,6.51,9.84,6.51,15.76Z"/>
       <path class="cls-1" d="m200,72.8l-13.51,7.82-50.71-29.29c-9.77-5.64-21.79-5.64-31.56,0l-50.71,29.29-13.51-7.82L120,26.6l80,46.19Z"/>
     </g>
-    <text class="cls-3" transform="translate(29.71 193.92)"><tspan class="cls-7" x="0" y="0">E</tspan><tspan x="13.19" y="0">vidence Mar</tspan><tspan class="cls-4" x="145.4" y="0">k</tspan><tspan class="cls-6" x="157.26" y="0">e</tspan><tspan class="cls-5" x="170.33" y="0">t</tspan></text>
+    <text class="cls-2" transform="translate(29.71 193.92)"><tspan class="cls-7" x="0" y="0">E</tspan><tspan x="13.19" y="0">vidence Mar</tspan><tspan class="cls-4" x="145.4" y="0">k</tspan><tspan class="cls-6" x="157.26" y="0">e</tspan><tspan class="cls-5" x="170.33" y="0">t</tspan></text>
   </g>
 </svg>
